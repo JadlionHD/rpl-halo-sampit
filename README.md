@@ -5,9 +5,9 @@ Proyek aplikasi web "Halo Sampit" untuk memenuhi tugas **Jobsheet 1 Praktikum Re
 Aplikasi ini dibangun menggunakan runtime **Bun** dan framework web **Hono (TypeScript)** dengan menerapkan siklus *Vibe Coding* terkendali.
 
 ## Identitas Mahasiswa
-- **Nama:** [Isi Nama Anda]
-- **NIM:** [Isi NIM Anda]
-- **Kelas:** [Isi Kelas Anda]
+- **Nama:** Hendra Gunawan
+- **NIM:** 24554010026
+- **Kelas:** Semester 5
 
 ## Fitur Aplikasi
 1. **Beranda Sapaan (`/`):**
